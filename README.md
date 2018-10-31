@@ -1,4 +1,4 @@
 # public-project-room
 
-Hello World
-This is my test-room
+Hello World.
+This is my test-room.
